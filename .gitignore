@@ -1,0 +1,12 @@
+# Local Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated charts and reports
+output/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
